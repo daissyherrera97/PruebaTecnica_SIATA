@@ -1,0 +1,185 @@
+Código	Nombre	Red	Latitud	Longitud	Barrio/Vereda	Comuna/Corregimiento	Municipio	Subcuenca	Fecha Instalación
+1	"Casa de Gobierno Altavista"	"pluviometrica"	6.222600	-75.628200	"Altavista - Sector central"	"70 Altavista"	"Medellin"	"Q. Altavista"	2010-02-01
+10	"Escuela Rural El Boqueron"	"pluviometrica"	6.315334	-75.657627	"Boqueron"	"60 San Cristobal"	"Medellin"	"Q. La Iguana"	2010-01-01
+11	"Escuela Rural Fabio Zuluaga"	"pluviometrica"	6.273131	-75.651637	"La Palma"	"60 San Cristobal"	"Medellin"	"Q. La Iguana"	2010-01-04
+12	"I.E Concejo de Medellin"	"pluviometrica"	6.258000	-75.600500	"La Floresta"	"12 La America"	"Medellin"	"Q. La Hueso"	2010-01-01
+121	"I.E Barrio Paris"	"pluviometrica"	6.313703	-75.581580	"Paris"	"Comuna 01"	"Bello"	"Q. La Madera"	2014-11-26
+127	"I.E. Manuel Jose Sierra - Sede la Holanda"	"pluviometrica"	6.419199	-75.483316	"La Holanda - Parte Alta"	""	"Girardota"	"Q. La Molinal"	2015-04-10
+129	"Colegio Divino Salvador"	"pluviometrica"	6.237300	-75.548100	"Miraflores"	"09 Buenos Aires"	"Medellin"	"Q. Santa Elena"	2015-04-23
+14	"Escuela El Triunfo"	"pluviometrica"	6.306341	-75.584912	"El Triunfo"	"06 Doce Octubre"	"Medellin"	"Q. Toscana - Tinaja"	2010-01-01
+146	"Club del Adulto Mayor - Sabaneta"	"pluviometrica"	6.147306	-75.622241	"Prados de Sabaneta"	""	"Sabaneta"	"Q. La Doctora"	2015-07-21
+15	"Colegio San Lucas"	"pluviometrica"	6.181003	-75.566532	"San Lucas"	"14 El Poblado"	"Medellin"	"Q. La Ayura"	2010-01-01
+154	"Centro de Desarrollo Infantil Pequenos Exploradores"	"pluviometrica"	6.309810	-75.548020	"Santa Rita"	"Comuna 11"	"Bello"	"R. Aburra-Medellin"	2015-09-17
+16	"I.E Ramon Munera Lopera"	"pluviometrica"	6.269766	-75.543435	"El Raizal"	"03 Manrique"	"Medellin"	"Q. La Chorrera"	2010-01-01
+160	"Samana - Pluviometro"	"pluviometrica"	5.440647	-74.995181	"La Palma"	""	"Samana"	"R. La Miel"	2015-10-16
+165	"Santa Rosa de Osos - Pluviometro"	"pluviometrica"	6.638889	-75.457861	"Avenida crespo"	""	"Santa Rosa de Osos"	"R. Grande"	2016-02-29
+168	"Santa Rita Guatape - Pluviometro"	"pluviometrica"	6.318264	-75.172090	"Santa Rita"	""	"Alejandria"	"R. Nare"	2016-02-29
+17	"Escuela El Corazon"	"pluviometrica"	6.247227	-75.629765	"El Corazon"	"13 San Javier"	"Medellin"	"Q. La Hueso"	2010-01-28
+171	"Escombrera Mocatan - Pluviometro"	"pluviometrica"	6.059730	-75.630830	"La Clara"	""	"Caldas"	"R. Aburra-Medellin"	2016-01-01
+18	"Escuela El Salado"	"pluviometrica"	6.211090	-75.670900	"El Salado"	"80 San Antonio de Prado"	"Medellin"	"Q. Dona Maria"	2010-01-14
+184	"Miraflores"	"pluviometrica"	6.229836	-75.549162	"Cataluna"	"09 Buenos Aires"	"Medellin"	"Q. Santa Elena"	2016-01-01
+189	"Q. La Sanin - Pluviometro"	"pluviometrica"	6.203000	-75.546100	"Las Palmas"	"90 Santa Elena"	"Medellin"	"Q. La Presidenta"	2017-07-14
+19	"Tecnologico Antioquia"	"pluviometrica"	6.178320	-75.603738	"Las Americas-Zona Industrial No. 1"	""	"Itagui"	"Q. Dona Maria"	2011-03-22
+190	"El Santuario - Pluviometro"	"pluviometrica"	6.133756	-75.274410	"El Saladito"	""	"El Santuario"	"Q. La Marinilla"	2017-07-13
+193	"Fuente Clara - Pluviometro"	"pluviometrica"	6.132657	-75.612835	"La Doctora"	""	"Sabaneta"	"Q. La Doctora"	2017-07-18
+2	"Escuela Rural La Verde"	"pluviometrica"	6.186856	-75.640688	"La Verde"	"80 San Antonio de Prado"	"Medellin"	"Q. Dona Maria"	2010-01-06
+20	"Fundacion Hogares Claret"	"pluviometrica"	6.294109	-75.611326	"Pajarito"	"60 San Cristobal"	"Medellin"	"Q. La Iguana"	2010-01-18
+21	"Escuela Rural San Jose de la Montana"	"pluviometrica"	6.304081	-75.639127	"San Jose de la Montana"	"60 San Cristobal"	"Medellin"	"Q. La Iguana"	2010-01-18
+211	"La Ladera"	"pluviometrica"	6.251190	-75.554027	"La Ladera"	"08 Villa Hermosa"	"Medellin"	"Q. Santa Elena"	2012-12-10
+22	"Escuela La Capilla del Rosario"	"pluviometrica"	6.205189	-75.602037	"Belen Rincon"	"16 Belen"	"Medellin"	"Q. Altavista"	2010-01-28
+227	"Sonson - Pluviometro"	"pluviometrica"	5.715972	-75.309372	"Centro"	""	"Sonson"	"R. Sonson"	2017-08-29
+23	"Instituto Jorge Robledo"	"pluviometrica"	6.258272	-75.581128	"Carlos E. Restrepo"	"11 Laureles - Estadio"	"Medellin"	"Q. La Iguana"	2010-01-18
+230	"Alcaldia La Estrella - Pluviometro"	"pluviometrica"	6.158166	-75.641711	"El Dorado"	""	"La Estrella"	"Q. La Chocha"	2017-08-31
+234	"I.E Manuel Jose Caicedo - Pluviometro"	"pluviometrica"	6.434890	-75.326800	"Aguas Calientes"	""	"Barbosa"	"Q. Agua Caliente"	2017-09-18
+24	"I.E Republica de Uruguay"	"pluviometrica"	6.283694	-75.576902	"Alfonso Lopez"	"05 Castilla"	"Medellin"	"Q. Quintana"	2010-01-18
+241	"Sede Social Picacho Las Vegas"	"pluviometrica"	6.295145	-75.583364	"Picacho"	"06 Doce Octubre"	"Medellin"	"Q. La Cantera"	2017-10-20
+242	"IE Jesus Maria Valle"	"pluviometrica"	6.300531	-75.582233	"Picacho"	"06 Doce Octubre"	"Medellin"	"Q. Minitas"	2017-10-20
+244	"Bomberos Envigado - Pluviometro"	"pluviometrica"	6.166630	-75.600880	"Las Vegas"	""	"Envigado"	"R. Aburra-Medellin"	2017-10-28
+248	"Vivero EPM Piedras Blancas - Pluviometro"	"pluviometrica"	6.283280	-75.493970	"Piedras Blancas"	""	"Guarne"	"Q. Piedras Blancas"	2017-11-04
+25	"Escuela Rural Astilleros"	"pluviometrica"	6.239765	-75.666884	"El Astillero"	"80 San Antonio de Prado"	"Medellin"	"Q. Dona Maria"	2010-02-05
+253	"Parque 3 Aguas - Pluviometro"	"pluviometrica"	6.096280	-75.635360	"La Miel"	""	"Caldas"	"R. Aburra-Medellin"	2017-11-14
+256	"Puerto Triunfo - Pluviometro"	"pluviometrica"	5.868306	-74.641494	"Sector Central"	""	"Puerto Triunfo"	"R. Magdalena"	2017-11-22
+26	"Escuela Rural El Plan"	"pluviometrica"	6.205480	-75.516890	"El Plan"	"90 Santa Elena"	"Medellin"	"Q. Santa Elena"	2010-01-23
+261	"Deslizamiento La Raya - Pluviometro"	"pluviometrica"	6.113977	-75.647914	"San Miguel"	""	"La Estrella"	"Q. San Miguel"	2017-12-01
+266	"Himalaya - Pluviometro"	"pluviometrica"	6.147724	-75.637601	"Pueblo Viejo"	""	"La Estrella"	"Q. La Grande"	2017-12-19
+267	"Colegio Canadiense - Pluviometro"	"pluviometrica"	6.131730	-75.638440	"Penas Blancas"	""	"La Estrella"	"Q. La Bermejala"	2017-12-18
+274	"Carpinelo Amapolita - Pluviometro"	"pluviometrica"	6.287102	-75.538194	"Carpinelo"	"01 Popular"	"Medellin"	"Q. La Rosa"	2018-01-19
+275	"Q. La Loca El Cafetal - Pluviometro"	"pluviometrica"	6.315900	-75.579900	"Paris"	"Comuna 01"	"Bello"	"Q. La Loca"	2018-01-16
+278	"Vereda Potrerito - Pluviometro"	"pluviometrica"	6.425329	-75.320962	"Potrerito"	""	"Barbosa"	"Q. Llano Chiquito"	2018-01-31
+28	"Liceo Salazar y Herrera"	"pluviometrica"	6.248666	-75.605833	"La America"	"12 La America"	"Medellin"	"Q. La Hueso"	2010-01-25
+281	"Megacolegio - Pluviometro"	"pluviometrica"	6.310430	-75.585833	"Paris"	"Comuna 01"	"Bello"	"Q. La Madera"	2018-02-15
+288	"Colegio Waldorf - Pluviometro"	"pluviometrica"	6.159259	-75.647429	"Bellavista"	""	"La Estrella"	"Q. Dona Maria"	2018-03-21
+289	"Seminario Redemptoris - Pluviometro"	"pluviometrica"	6.224197	-75.535651	"Las Palmas"	"90 Santa Elena"	"Medellin"	"Q. Santa Elena"	2018-03-22
+29	"Escuela Marina Orth"	"pluviometrica"	6.232313	-75.643773	"Aguas Frias"	"70 Altavista"	"Medellin"	"Q. La Picacha"	2010-01-25
+295	"Laguna Quitasol - Pluviometro"	"pluviometrica"	6.357889	-75.555722	"Tierradentro"	""	"Bello"	"Q. La Garcia"	2018-04-23
+3	"Escuela Rural Yarumalito"	"pluviometrica"	6.233091	-75.694264	"Yarumalito"	"80 San Antonio de Prado"	"Medellin"	"Q. Dona Maria"	2010-01-01
+30	"Salon Social Barbosa"	"pluviometrica"	6.436867	-75.330450	"Centro"	""	"Barbosa"	"Q. Agua Caliente"	2010-01-29
+31	"Colegio Jose Manuel Sierra"	"pluviometrica"	6.375833	-75.445833	"Calle Bolivar"	""	"Girardota"	"Q. El Tabano"	2010-01-29
+311	"Casa Siata - Pluviometro"	"pluviometrica"	6.196090	-75.579513	"Aguacatala"	"14 El Poblado"	"Medellin"	"R. Aburra-Medellin"	2018-06-05
+32	"Colegio Presbitero Bernardo Montoya"	"pluviometrica"	6.353971	-75.498851	"La Maria"	""	"Copacabana"	"R. Aburra-Medellin"	2010-01-30
+320	"Palmitas Potrera - Pluviometro"	"pluviometrica"	6.356622	-75.699772	"Potrero - Miseranga"	"50 Palmitas"	"Medellin"	"R. Quebradaseca"	2018-06-27
+323	"Acueducto Hatillo - Pluviometro"	"pluviometrica"	6.415325	-75.398234	"Hatillo"	""	"Barbosa"	"Q. Los Totumos"	2018-07-17
+324	"E.R Jamundi - Pluviometro"	"pluviometrica"	6.364524	-75.436203	"Jamundi"	""	"Girardota"	"Q. El Salado"	2018-07-17
+327	"San Jose de Las Vegas - Pluviometro"	"pluviometrica"	6.120000	-75.538560	"Carrizales"	""	"Retiro"	"Q. Fizebad"	2018-08-08
+328	"Universidad EIA - Envigado - Pluviometro"	"pluviometrica"	6.156723	-75.517108	"Santa Catalina"	""	"Envigado"	"Q. Las Palmas"	2018-08-09
+33	"Santa Maria Goretti"	"pluviometrica"	6.094458	-75.637469	"La Docena"	""	"Caldas"	"R. Aburra-Medellin"	2010-01-28
+334	"Manuel Mejia Vallejo - Pluviometro"	"pluviometrica"	6.167310	-75.565070	"Loma El Atravesado"	""	"Envigado"	"Q. La Ayura"	2018-09-18
+339	"Ecoparque El Salado - Pluviometro"	"pluviometrica"	6.138620	-75.569160	"Pantanillo"	""	"Envigado"	"Q. La Ayura"	2019-01-04
+34	"I.E La Doctora"	"pluviometrica"	6.141440	-75.613150	"Vegas de la Doctora"	""	"Sabaneta"	"Q. La Doctora"	2010-02-02
+35	"I.E Joaquin Vallejo Arbelaez"	"pluviometrica"	6.255245	-75.542478	"La Ladera"	"08 Villa Hermosa"	"Medellin"	"Q. Santa Elena"	2010-01-28
+352	"Institucion Educativa La Candelaria - Pluviometro"	"pluviometrica"	6.293682	-75.542634	"Santo Domingo Savio"	"01 Popular"	"Medellin"	"Q. La Rosa"	2019-02-01
+353	"Villa del Socorro - Pluviometro"	"pluviometrica"	6.295522	-75.553922	"Villa del Socorro"	"02 Santa Cruz"	"Medellin"	"R. Aburra-Medellin"	2019-02-01
+356	"Villa Niza - Pluviometro"	"pluviometrica"	6.295124	-75.556350	"Villa Niza"	"02 Santa Cruz"	"Medellin"	"R. Aburra-Medellin"	2019-03-18
+36	"Colegio Concejo de Itagui"	"pluviometrica"	6.167930	-75.643800	"Ditaires"	"Comuna 03"	"Itagui"	"Q. Dona Maria"	2010-03-26
+37	"Liceo Fernando Velez"	"pluviometrica"	6.337550	-75.567800	"El Carmelo"	"Comuna 05"	"Bello"	"Q. La Garcia"	2010-02-02
+373	"Ancon 2 - Pluviometro"	"pluviometrica"	6.377478	-75.482258	"Ancon Norte"	""	"Copacabana"	"Q. La Molinal"	2019-05-03
+376	"Feria de Ganado - Pluviometro"	"pluviometrica"	6.302319	-75.561495	"Belalcazar"	"05 Castilla"	"Medellin"	"R. Aburra-Medellin"	2019-05-15
+378	"Edificio Camacol - Pluviometro"	"pluviometrica"	6.253800	-75.578496	"Naranjal"	"11 Laureles - Estadio"	"Medellin"	"R. Aburra-Medellin"	2019-06-04
+383	"Salinas Caldas - Pluviometro"	"pluviometrica"	6.048370	-75.662584	"Salinas"	""	"Caldas"	"Sin Nombre"	2019-06-14
+389	"Manga Arriba - Pluviometro"	"pluviometrica"	6.351598	-75.458963	"NULL"	"NULL"	"Girardota"	"Q. Juan Cojo"	2019-08-09
+39	"I.E Pedro Octavio Amado"	"pluviometrica"	6.221790	-75.610560	"Altavista"	"16 Belen"	"Medellin"	"Q. Altavista"	2010-01-28
+392	"Universidad San Buenaventura - Pluviometro"	"pluviometrica"	6.330926	-75.570073	"Salento"	"Comuna 03"	"Bello"	"Q. El Hato"	2019-09-09
+393	"Deprimido Terminal del Norte - Pluviometro"	"pluviometrica"	6.276123	-75.572687	"Caribe"	"05 Castilla"	"Medellin"	"R. Aburra-Medellin"	2019-09-20
+394	"Deprimido Los Musicos - Pluviometro"	"pluviometrica"	6.247560	-75.581790	"San Joaquin"	"11 Laureles - Estadio"	"Medellin"	"Q. La Picacha"	2019-09-20
+395	"La Harenala Santa Maria - Pluviometro"	"pluviometrica"	6.184184	-75.603923	"Santa Maria No. 1"	""	"Itagui"	"Q. La Jabalcona"	2019-09-24
+4	"I.E Hector Rogelio Montoya"	"pluviometrica"	6.343086	-75.690804	"Palmitas - Sector Central"	"50 Palmitas"	"Medellin"	"Q. La Sucia"	2010-01-01
+40	"I.E Ciro Mendia"	"pluviometrica"	6.290090	-75.555870	"Moscu No1"	"02 Santa Cruz"	"Medellin"	"Q. La Rosa"	2010-02-05
+41	"Comisaria El Poblado"	"pluviometrica"	6.206610	-75.566160	"La Florida"	"14 El Poblado"	"Medellin"	"Q. La Presidenta"	2010-01-28
+418	"Montanita San Antonio - Pluviometro"	"pluviometrica"	6.192568	-75.665898	"Montanita"	"80 San Antonio de Prado"	"Medellin"	"Q. Dona Maria"	2019-12-26
+42	"Escuela Rural Piedras Gordas"	"pluviometrica"	6.236370	-75.498440	"Piedra Gorda"	"90 Santa Elena"	"Medellin"	"Q. Piedras Blancas"	2010-02-05
+420	"Pueblo Viejo - Pluviometro"	"pluviometrica"	6.140260	-75.637940	"NULL"	"NULL"	"La Estrella"	"R. Aburra-Medellin"	2019-12-26
+421	"CC Viva Envigado - Pluviometro"	"pluviometrica"	6.176850	-75.591060	"Las Vegas"	""	"Envigado"	"R. Aburra-Medellin"	2020-01-14
+429	"Perfilador de Vientos - Pluviometro"	"pluviometrica"	6.229393	-75.589940	"Belen Las Playas"	"16 Belen"	"Medellin"	"R. Aburra-Medellin"	2020-02-21
+43	"Escuela Rural Quebrada Larga"	"pluviometrica"	6.205560	-75.685737	"Yarumalito"	"80 San Antonio de Prado"	"Medellin"	"Q. Dona Maria"	2010-05-03
+432	"Andalucia Caldas - Pluviometro"	"pluviometrica"	6.092610	-75.626540	"Andalucia"	""	"Caldas"	"Q. La Corrala"	2020-02-27
+433	"Salada Parte Alta - Pluviometro"	"pluviometrica"	6.016870	-75.618240	"Salada Parte Alta"	""	"Caldas"	"Q. La Salada"	2020-02-28
+434	"Museo de Antioquia - Pluviometro"	"pluviometrica"	6.252774	-75.569658	"La Candelaria"	"10 La Candelaria"	"Medellin"	"Q. Santa Elena"	2020-03-03
+437	"Paradero Jalisco San Felix - Pluviometro"	"pluviometrica"	6.314291	-75.596932	"El Carmelo"	"San Felix"	"Bello"	"Q. La Loca"	2020-03-31
+44	"I.E Villa Turbay"	"pluviometrica"	6.235630	-75.530240	"Villa Turbay"	"08 Villa Hermosa"	"Medellin"	"Q. Santa Elena"	2010-04-19
+445	"Deprimido San Juan Con La 80 - Pluviometro"	"pluviometrica"	6.250381	-75.602241	"Lorena"	"11 Laureles - Estadio"	"Medellin"	"Q. La Hueso"	2020-05-11
+446	"Deprimido Bulerias - Pluviometro"	"pluviometrica"	6.239611	-75.590288	"Laureles"	"11 Laureles - Estadio"	"Medellin"	"Q. La Picacha"	2020-05-08
+447	"Deprimido San Juan Con Av Ferrocarril - Pluviometro"	"pluviometrica"	6.245984	-75.574976	"Guayaquil"	"10 La Candelaria"	"Medellin"	"Q. Guayaquil"	2020-05-11
+45	"AMVA"	"pluviometrica"	6.242238	-75.574031	"Calle Nueva"	"10 La Candelaria"	"Medellin"	"R. Aburra-Medellin"	2010-09-01
+451	"Heliodora - Pluviometro"	"pluviometrica"	6.160720	-75.587630	"El Dorado"	""	"Envigado"	"Q. La Mina"	2020-07-03
+452	"Puente Gabino - Pluviometro"	"pluviometrica"	6.559617	-75.205885	"El Caney"	""	"Yolombo"	"R. Porce"	2020-07-22
+456	"Arenys de Mar - Pluviometro"	"pluviometrica"	6.276306	-75.606657	"Blanquizal"	"13 San Javier"	"Medellin"	"Q. La Iguana"	2020-07-31
+457	"Ajizal"	"pluviometrica"	6.193537	-75.604875	"El Ajizal"	""	"Medellin"	"Q. La Jabalcona"	2020-09-08
+46	"I.E La Milagrosa"	"pluviometrica"	6.235320	-75.554000	"La Milagrosa"	"09 Buenos Aires"	"Medellin"	"Q. Santa Elena"	2010-04-28
+47	"Villa Nueva Sede La Luz"	"pluviometrica"	6.388517	-75.496590	"Zarzal La Luz"	""	"Copacabana"	"Sin Nombre"	2010-05-03
+475	"Reserva El Centello - Pluviometro"	"pluviometrica"	5.504970	-75.849920	"Macanas"	""	"Jardin"	"Q. El Bosque"	2020-12-16
+48	"Escuela Rural Santa Angela"	"pluviometrica"	6.304460	-75.594670	"El Carmelo"	"60 San Cristobal"	"Medellin"	"Q. Minitas"	2010-05-14
+481	"Hospital La Estrella - Pluviometro"	"pluviometrica"	6.155455	-75.643981	"La Chinca"	""	"La Estrella"	"Q. La Chocha"	2020-12-18
+49	"Colegio Latino (Av. Las Palmas)"	"pluviometrica"	6.212167	-75.545900	"Las Palmas"	"90 Santa Elena"	"Medellin"	"Q. La Presidenta"	2010-09-08
+499	"El Pacifico - Pluviometro"	"pluviometrica"	6.249650	-75.535780	"Piedras Blancas – Matasano"	"90 Santa Elena"	"Medellin"	"Q. Santa Elena"	2021-02-16
+5	"I.E Santa Elena"	"pluviometrica"	6.206213	-75.492144	"Santa Elena Sector Central"	"90 Santa Elena"	"Medellin"	"Q. Santa Elena"	2010-01-01
+50	"Universidad CES (Sabaneta)"	"pluviometrica"	6.157871	-75.604745	"Virgen del Carmen"	""	"Sabaneta"	"Q. La Doctora"	2011-02-11
+51	"Represa La Garcia"	"pluviometrica"	6.361900	-75.600200	"La Primavera"	"San Felix"	"Bello"	"Q. La Garcia"	2011-02-21
+515	"La Valeria - Caldas"	"pluviometrica"	6.091610	-75.643340	"La Valeria"	""	"Caldas"	"Q. La Valeria"	2021-03-12
+519	"Deslizamiento Tierra Amarilla - Pluviometro"	"pluviometrica"	6.153480	-75.658500	"Tierra Amarilla"	""	"La Estrella"	"Q. La Grande"	2021-03-19
+52	"Centro Veterinario y de Zootecnia CES"	"pluviometrica"	6.144963	-75.561747	"Perico"	""	"Envigado"	"Q. La Ayura"	2011-03-06
+53	"Colegio Eduardo Santos"	"pluviometrica"	6.258650	-75.629380	"Eduardo Santos"	"13 San Javier"	"Medellin"	"Q. La Hueso"	2011-03-11
+539	"Restaurante San Ateo - Pluviometro"	"pluviometrica"	6.323170	-75.595365	"El Carmelo"	"San Felix"	"Bello"	"Q. El Hato"	2021-06-24
+54	"I.E Juan Maria Cespedes"	"pluviometrica"	6.235374	-75.597071	"El Nogal - Los Almendros"	"16 Belen"	"Medellin"	"Q. La Picacha"	2011-03-23
+540	"Finca Altamira - Pluviometro"	"pluviometrica"	6.138412	-75.622356	"Canaveralejo"	""	"Sabaneta"	"Q. La Doctora"	2021-06-11
+543	"Potrerito - Bello - Pluviometro"	"pluviometrica"	6.330250	-75.582430	"Potrerito"	""	"Bello"	"Q. El Hato"	2021-06-29
+55	"I.E Reino de Belgica"	"pluviometrica"	6.284792	-75.539758	"Maria Cano Carambolas"	"03 Manrique"	"Medellin"	"Q. La Rosa"	2011-03-23
+551	"Villatina - Pluviometro"	"pluviometrica"	6.234870	-75.540191	"Villatina"	"08 Villa Hermosa"	"Medellin"	"Q. Santa Elena"	2021-09-02
+558	"La Bermejala - Pluviometro"	"pluviometrica"	6.277690	-75.558372	"Brasilia"	"04 Aranjuez"	"Medellin"	"Q. La Bermejala"	2021-09-29
+56	"I.E Inem Jose Felix de Restrepo Sede Santa Catalina"	"pluviometrica"	6.199783	-75.560961	"El Tesoro"	"14 El Poblado"	"Medellin"	"Q. La Presidenta"	2011-03-11
+57	"Escuela la Clara"	"pluviometrica"	6.042017	-75.618590	"La Clara"	""	"Caldas"	"Q. La Clara"	2012-03-23
+578	"Santa Elena Radar - Pluviometro"	"pluviometrica"	6.193500	-75.527600	"El Plan"	"90 Santa Elena"	"Medellin"	"Q. La Presidenta"	2021-12-14
+58	"Escuela Luis Javier Garcia Isaza"	"pluviometrica"	6.047870	-75.624170	"La Salada Parte Baja"	""	"Caldas"	"R. Aburra-Medellin"	2012-03-23
+60	"Torre SIATA"	"pluviometrica"	6.259195	-75.588697	"Estadio"	"11 Laureles - Estadio"	"Medellin"	"Q. La Hueso"	2010-12-19
+601	"Acueducto Principal Altavista - Pluviometro"	"pluviometrica"	6.220590	-75.640080	"Buga"	"70 Altavista"	"Medellin"	"Q. Altavista"	2022-05-03
+607	"I. E. San Luis Gonzaga Sede Carlos Mesa - Pluviometro"	"pluviometrica"	6.315111	-75.494455	"Las Margaritas"	""	"Copacabana"	"Q. Piedras Blancas"	2022-06-08
+61	"Planta de Agua Bocatoma"	"pluviometrica"	6.119794	-75.643000	"San Miguel"	""	"La Estrella"	"Q. San Miguel"	2012-03-20
+612	"Vereda Naranjal - Pluviometro"	"pluviometrica"	6.302120	-75.659090	"Naranjal"	"60 San Cristobal"	"Medellin"	"Q. La Iguana"	2022-06-21
+62	"Gimnasio Cantabria"	"pluviometrica"	6.137361	-75.644804	"Pueblo Viejo"	""	"La Estrella"	"Q. La Bermejala"	2012-03-07
+63	"Las Flores"	"pluviometrica"	6.248090	-75.450190	"San Jose"	""	"Guarne"	"Q. La Hondita"	2012-04-05
+636	"Mandalay - Pluviometro"	"pluviometrica"	6.080526	-75.639990	"La Chuscala"	""	"Caldas"	"Q. La Chuscala"	2022-11-16
+64	"Ecoparque La Romera"	"pluviometrica"	6.119807	-75.597933	"La Doctora"	""	"Sabaneta"	"Q. La Doctora"	2012-09-05
+641	"Urrao - Pluviometro"	"pluviometrica"	6.317450	-76.136640	"Sector Central"	""	"Urrao"	"R. Penderisco"	2022-11-21
+65	"I.E Las Lomitas"	"pluviometrica"	6.143111	-75.601278	"Las Lomitas"	""	"Sabaneta"	"Q. La Doctora"	2012-08-09
+66	"I.E San Andres (Sede El Socorro)"	"pluviometrica"	6.410358	-75.452086	"El Socorro"	""	"Girardota"	"Q. La Correa"	2012-05-09
+7	"Escuela Republica de Cuba"	"pluviometrica"	6.293900	-75.577400	"La Esperanza"	"06 Doce Octubre"	"Medellin"	"Q. Minitas"	2010-01-01
+70	"Indural Km6 Medellin-Bogota"	"pluviometrica"	6.326838	-75.523339	"Rodas"	""	"Copacabana"	"Q. La Trinidad"	2012-06-25
+704	"Proveeduria - Pluviometro"	"pluviometrica"	6.229770	-75.586050	"Trinidad"	"15 Guayabal"	"Medellin"	"R. Aburra-Medellin"	2024-03-15
+707	"El Capiro La Ceja - Pluviometro"	"pluviometrica"	6.056101	-75.405400	"El Guamito"	""	"La Ceja"	"Sin Nombre"	2024-04-23
+71	"CEFA"	"pluviometrica"	6.246512	-75.561825	"Boston"	"10 La Candelaria"	"Medellin"	"Q. Santa Elena"	2013-02-27
+717	"I.E Quebrada Arriba - Pluviometro"	"pluviometrica"	6.336148	-75.470599	"Quebrada Arriba"	""	"Copacabana"	"Q. La Chuscal"	2024-07-09
+719	"El Rincon Venecia - Pluviometro"	"pluviometrica"	5.945970	-75.715060	"El Rincon"	""	"Venecia"	"Q. La Tigra"	2024-06-30
+72	"Jose Miguel de Restrepo"	"pluviometrica"	6.377454	-75.510159	"La Veta"	""	"Copacabana"	"Q. La Veta"	2012-06-25
+727	"Lomita Parte Baja - Pluviometro"	"pluviometrica"	6.193613	-75.663596	"Montanita San Antonio de Prado - Sector Central"	"80 San Antonio de Prado"	"Medellin"	"Q. Dona Maria"	2024-07-31
+730	"La Fortuna Parte Alta - Pluviometro"	"pluviometrica"	6.193480	-75.675330	"Montanita"	"80 San Antonio de Prado "	"Medellin"	"Q. Dona Maria"	2024-08-08
+74	"Edificio Gaspar de Rodas - Bello"	"pluviometrica"	6.337260	-75.558680	"Centro"	"Comuna 04"	"Bello"	"Q. La Garcia"	2013-05-27
+744	"Finca El Tigre - Pluviometro"	"pluviometrica"	6.172472	-75.653428	"Apique San Antonio de Prado - Sector Central"	"80 San Antonio de Prado"	"Medellin"	"Q. Dona Maria"	2024-11-19
+75	"Institucion Educativa Rural El Tambo"	"pluviometrica"	6.431040	-75.593090	"El Tambo"	""	"San Pedro"	"Q. La Garcia"	2013-06-04
+757	"Las Golondrinas - Pluviometro"	"pluviometrica"	6.256600	-75.537700	""	"8 Villa Hermosa"	"Medellin"	"Q. Santa Elena"	2024-12-18
+759	"El Noral Via Santa Elena - Pluviometro"	"pluviometrica"	6.243600	-75.513700	"El Noral - Media Luna"	"90 Santa Elena"	"Medellin"	"Q. Santa Elena"	2024-12-19
+76	"I.E. Fontidueno"	"pluviometrica"	6.334066	-75.537722	"Fontidueno"	"Comuna 10"	"Bello"	"R. Aburra-Medellin"	2013-06-26
+8	"Escuela CEDEPRO"	"pluviometrica"	6.219590	-75.636239	"Buga - Patio Bonito"	"70 Altavista"	"Medellin"	"Q. Altavista"	2010-01-01
+81	"Bomberos Guayabal"	"pluviometrica"	6.215262	-75.586992	"Campo Amor"	"15 Guayabal"	"Medellin"	"Q. Altavista"	2013-06-28
+88	"CUIDA Juan Cojo"	"pluviometrica"	6.356780	-75.450971	"Juan Cojo"	""	"Girardota"	"Q. La Ferreria"	2013-11-14
+89	"I.E Pedro Nel"	"pluviometrica"	6.311368	-75.567776	"Florencia"	"05 Castilla"	"Medellin"	"Q. La Madera"	2013-11-14
+9	"Instituto Pedro Justo Berrio"	"pluviometrica"	6.237277	-75.610934	"Las Mercedes"	"16 Belen"	"Medellin"	"Q. La Picacha"	2010-01-01
+619	"Cabana Musical - Pluviometro"	"pluviometrica"	6.205000	-75.487456	"Santa Elena - Sector Central"	"90 Santa Elena"	"Medellin"	"Q. Santa Elena"	2022-06-29
+762	"Altos de La Torre - Pluviometro"	"pluviometrica"	6.250549	-75.540040	"Llanaditas"	"8 Villa Hermosa"	"Medellin"	"Q. Santa Elena"	2025-01-10
+763	"Villatina La Torre - Pluviometro"	"pluviometrica"	6.239010	-75.536880	"San Antonio"	"90 Santa Elena"	"Medellin"	"Q. Santa Elena"	2025-01-10
+765	"Vereda Los Patios - Pluviometro"	"pluviometrica"	6.280400	-75.655293	"Los Patios"	"60 San Cristobal"	"Medellin"	"Q. La Iguana"	2025-01-14
+766	"Aguas Frias - Pluviometro"	"pluviometrica"	6.231985	-75.631915	"San Pablo"	"70 Altavista"	"Medellin"	"Q. La Picacha"	2025-01-22
+767	"Vereda Pedregal Alto - Pluviometro"	"pluviometrica"	6.289413	-75.627955	"Pedregal Alto"	"60 San Cristobal"	"Medellin"	"Q. La Iguana"	2025-01-15
+769	"I.E Rodrigo Arenas - Pluviometro"	"pluviometrica"	6.292830	-75.593632	"Aures No.2"	"7 Robledo"	"Medellin"	"Q. Quintana"	2025-01-17
+775	"Vereda El Mazo - Pluviometro"	"pluviometrica"	6.258046	-75.515357	"Piedras Blancas - Matasano"	"90 Santa Elena"	"Medellin"	"Q. Santa Elena"	2025-02-12
+780	"Tierra Alta - Pluviometro"	"pluviometrica"	6.189880	-75.639019	"La Verde - San Antonio de Prado"	""	"Itagui"	"Q. Dona Maria"	2025-03-06
+781	"La Montana - Pluviometro"	"pluviometrica"	6.189167	-75.639052	"La Verde - San Antonio de Prado"	""	"Itagui"	"Q. Dona Maria"	2025-03-04
+787	"La Palmera - Pluviometro"	"pluviometrica"	6.194300	-75.552400	"El Poblado"	"14 El Poblado"	"Medellin"	"Q. La Presidenta"	2025-03-12
+798	"La Palma - Pluviometro"	"pluviometrica"	6.269588	-75.661520	"La Palma"	"60 San Cristobal"	"Medellin"	"Q. La Iguana"	2025-03-25
+816	"La Cascada - Santa Elena - Pluviometro"	"pluviometrica"	6.226102	-75.513826	"Media Luna"	"90 Santa Elena"	"Medellin"	"Q. Santa Elena"	2025-05-21
+820	"La Chorrera - Pluviometro"	"pluviometrica"	6.181981	-75.662005	"San Antonio de Prado - Sector Central"	"80 San Antonio de Prado"	"Medellin"	"Q. Dona Maria"	2025-05-28
+826	"Reserva Manzanillo - Pluviómetro"	"pluviometrica"	6.2044	-75.631291	"El Jardín"	""	"Medellín"	"Quebrada Altavista"	2025-06-05
+833	"Altos de Oriente - Pluviómetro"	"pluviometrica"	6.2952	-75.5271	"Piedras Blancas - Matasano"	""	"Medellín"	"Quebrada La Seca"	2025-07-01
+842	"CAI Las Palmas - Pluviómetro"	"pluviometrica"	6.1775	-75.5453	"Las Palmas"	""	"Medellín"	"Quebrada La Aguacatala"	2026-01-30
+862	"Villa Sierra - Pluviómetro"	"pluviometrica"	6.2362	-75.5335	"Villa Lilliam"	""	"Medellín"	"Quebrada Santa Elena"	2026-01-15
+863	"Acueducto Multiveredal Santa Elena - Pluviómetro"	"pluviometrica"	6.2081	-75.4962	"Santa Elena - Sector Central"	""	"Medellín"	"Quebrada Santa Elena"	2026-01-15
+867	"Sol de Oriente - Pluviómetro"	"pluviometrica"	6.2435	-75.5404	"Sol de Oriente"	""	"Medellín"	"Quebrada Santa Elena"	2026-01-16
+870	"Centro Infantil Fenalco - Pluviómetro"	"pluviometrica"	6.2959	-75.5369	"La Avanzada"	""	"Medellín"	"Quebrada La Seca"	2026-01-22

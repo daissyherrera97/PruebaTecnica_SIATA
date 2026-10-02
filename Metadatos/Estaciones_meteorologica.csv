@@ -1,0 +1,48 @@
+Código,Nombre,Red,Latitud,Longitud,Barrio/Vereda,Comuna/Corregimiento,Municipio,Subcuenca,Fecha Instalación
+203,UNAL-Sede Agronomia,meteorologica,6.260740,-75.578250,La Iguana,07 Robledo,Medellin,Q. La Iguana,2012-10-30
+206,Colegio Concejo de Itagui,meteorologica,6.167930,-75.643800,Ditaires,,Itagui,Q. Dona Maria,2012-11-06
+207,Vivero EPM Piedras Blancas,meteorologica,6.283280,-75.493970,Piedras Blancas,,Guarne,Q. Piedras Blancas,2013-02-25
+68,Jardin Botanico - Meteorologica Vaisala,meteorologica,6.269250,-75.562910,Aranjuez,4 Aranjuez,Medellin,Q. La Chorrera,2013-02-01
+201,Torre SIATA,meteorologica,6.259195,-75.588697,Estadio,11 Laureles - Estadio,Medellin,Q. La Hueso,2012-12-28
+202,AMVA,meteorologica,6.242238,-75.574031,Calle Nueva,10 La Candelaria,Medellin,R. Aburra-Medellin,2012-10-30
+59,ISAGEN,meteorologica,6.213940,-75.558970,Las Lomas No2,14 El Poblado,Medellin,Q. La Presidenta,2013-04-12
+82,I.E Manuel Jose Caicedo,meteorologica,6.434950,-75.326646,Aguas Calientes,,Barbosa,Q. Agua Caliente,2013-07-03
+105,Parque 3 Aguas,meteorologica,6.096280,-75.635360,La Miel,,Caldas,R. Aburra-Medellin,2014-01-16
+122,Tasajera,meteorologica,6.424500,-75.435220,El Tigre,,Barbosa,Q. La Silva,2014-12-05
+252,Alcaldia Envigado - Meteorologica,meteorologica,6.169900,-75.588300,Sector Central,,Envigado,Q. La Ayura,2017-04-24
+229,Alcaldia La Estrella - Thies,meteorologica,6.158142,-75.641617,El Dorado,,La Estrella,Q. La Chocha,2017-08-31
+199,Rionegro - Thies,meteorologica,6.166288,-75.368997,La Laja,,Rionegro,R. Negro,2017-08-28
+1019,Torre SIATA - Thies,meteorologica,6.259195,-75.588697,Estadio,11 Laureles - Estadio,Medellin,Q. La Hueso,2017-06-20
+198,Politecnico Jaime Isaza Cadavid - Meteorologica,meteorologica,6.208975,-75.577766,Patio Bonito,14 El Poblado,Medellin,R. Aburra-Medellin,2017-09-19
+197,Universidad de Medellin - Meteorologica,meteorologica,6.230240,-75.609970,Las Violetas,16 Belen,Medellin,R. Aburra-Medellin,2017-08-16
+269,Parque de las Aguas - Thies,meteorologica,6.406605,-75.418713,Filo Verde,,Barbosa,R. Aburra-Medellin,2018-01-04
+271,Jorge Eliecer Gaitan - Thies,meteorologica,6.337110,-75.558660,Sector Central,Comuna 04,Bello,Q. La Garcia,2018-01-04
+249,Escuela CEDEPRO,meteorologica,6.219590,-75.636239,Buga - Patio Bonito,70 Altavista,Medellin,Q. Altavista,2017-11-17
+318,Institucion Rafael J. Mejia - Thies,meteorologica,6.145640,-75.621390,Tres Esquinas,,Sabaneta,Q. La Doctora,2018-06-14
+345,Villa del Socorro - Meteorologica,meteorologica,6.295522,-75.553922,Villa del Socorro,02 Santa Cruz,Medellin,R. Aburra-Medellin,2019-01-18
+355,Escuela Piedras Gordas - Meteorologica,meteorologica,6.236370,-75.498440,Piedras Gordas,90 Santa Elena,Medellin,Q. Piedras Blancas,2019-02-13
+360,Thies Miraflores- Meteorologica,meteorologica,6.229972,-75.549194,Cataluna,09 Buenos Aires,Medellin,Q. Santa Elena,2019-02-27
+362,Proyecto Amsterdam,meteorologica,6.201361,-75.557400,El Tesoro,14 El Poblado,Medellin,Q. La Presidenta,2019-03-05
+367,Joaquin Vallejo - Meteorologica,meteorologica,6.255245,-75.542478,La Ladera,08 Villa Hermosa,Medellin,Q. Santa Elena,2019-03-18
+368,Federico Carrasquilla - Meteorologica,meteorologica,6.297220,-75.549270,Popular,01 Popular,Medellin,Q. La Herrera,2019-03-29
+397,Concejo de Itagui - Thiess,meteorologica,6.167930,-75.643800,Ditares,,Itagui,Q. Dona Maria,2019-09-27
+399,Institucion Educativa Jesus Maria Valle - Meteorologica,meteorologica,6.300531,-75.582233,Picacho,06 Doce de Octubre,Medellin,Q. Minitas,2019-10-09
+403,Puerto Triunfo - Meteorologica,meteorologica,5.868307,-74.641495,Sector Central,,Puerto Triunfo,R. Magdalena,2019-10-17
+419,Thies SENA Medellin - Meteorologica,meteorologica,6.255507,-75.574705,San Benito,10 La Candelaria,Medellin,R. Aburra-Medellin,2019-12-26
+427,Thies ITM Castilla - Meteorologica,meteorologica,6.293910,-75.569120,Girardot,05 Castilla,Medellin,R. Aburra-Medellin,2020-02-20
+448,Thies CASD - Meteorologica,meteorologica,6.297620,-75.575230,Pedregal,06 Doce Octubre,Medellin,R. Aburra-Medellin,2020-06-01
+645,Bello Oriente - Meteorologica,meteorologica,6.279070,-75.536670,Piedras Blancas - Matasano,90 Santa Elena,Medellin,Q. La Bermejala,2023-03-29
+542,Santa Elena - Radar - Thies,meteorologica,6.193500,-75.527600,El Plan,90 Santa Elena,Medellin,Q. La Presidenta,2021-06-24
+478,Fiscalia General de la Nacion - Thies,meteorologica,6.268797,-75.573555,Caribe,05 Castilla,Medellin,Q. Malpaso,2021-01-01
+603,Villa Niza - Meteorologica Vaisala,meteorologica,6.295124,-75.556350,Villa Niza,02 Santa Cruz,Medellin,R. Aburra-Medellin,2022-05-23
+604,Institucion Educativa La Candelaria - Meteorologica Vaisala,meteorologica,6.293682,-75.542634,Santo Domingo Savio,01 Popular,Medellin,Q. La Rosa,2022-05-24
+615,Tanque EPM Girardota - Meteorologica Vaisala,meteorologica,6.373425,-75.448215,La Ferreria,,Girardota,R. Aburra-Medellin,2022-06-29
+592,Parque Biblioteca Tomas Carrasquilla - Meteorologica,meteorologica,6.285280,-75.583360,Lopez de Mesa,07 Robledo,Medellin,Q. La Quintana,2022-07-18
+635,Alcaldia La Estrella - Meteorologica Vaisala,meteorologica,6.158220,-75.641720,El Dorado,,La Estrella,Q. La Chocha,2022-12-14
+679,Federico Carrasquilla - Meteorologica Vaisala,meteorologica,6.297230,-75.549210,Popular,1 Popular,Medellin,Q. La Herrera,2023-09-13
+73,Ciudadela Educativa La Vida,meteorologica,6.345343,-75.504722,Cristo Rey,,Copacabana,R. Aburra-Medellin,2013-05-24
+703,Proveeduria - Meteorologica,meteorologica,6.229770,-75.586050,Trinidad,15 Guayabal,Medellin,R. Aburra-Medellin,2024-04-10
+713,Universidad CES Poblado,meteorologica,6.207333,-75.551733,Altos del Poblado,14 El Poblado,Medellin,Q. La Presidenta,2024-05-24
+742,Palmitas Potrera - Meteorologica Vaisala,meteorologica,6.356490,-75.699910,Potrero - Miseranga,50 Palmitas,Medellin,R. Quebradaseca,2024-11-13
+751,Santa Elena Radar - Meteorologica Vaisala,meteorologica,6.193500,-75.527600,Las Palmas,90 Santa Elena,Medellin,Q. Santa Elena,2024-11-25
+755,Colegio Eduardo Santos - Meteorologica Vaisala,meteorologica,6.258650,-75.629380,Eduardo Santos,13 San Javier,Medellin,Q. La Hueso,2024-12-03
